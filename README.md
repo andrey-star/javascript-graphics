@@ -1,2 +1,2 @@
 # javascript-graphics
-This project contains graphical realizations of different tasks
+This project contains graphical representation's of some stuff
